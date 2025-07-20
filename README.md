@@ -1,4 +1,5 @@
 # Planets_App
+<img width="259" height="507" alt="Image" src="https://github.com/user-attachments/assets/603b22cb-5173-4aac-8fd5-bbb8f8d38cb3" />
 
 **Planets_App** is a simple and educational Android application developed to demonstrate the use of **ListView** and **Custom Adapter** in Android using Java. This app displays a list of planets along with the number of moons they have and their representative images. When a user taps on any planet item, a toast message appears showing the name of the selected planet.
 
@@ -29,8 +30,7 @@ During the development of this project, I gained hands-on experience with the fo
 
 ## Screenshots
 
-(You can add screenshots here if you'd like)
-
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/cdbe36eb-6593-4e79-8fdd-d93cfa8af043" />
 ## Getting Started
 
 - Clone the repository.
